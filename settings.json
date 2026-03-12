@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "freecool.aternos.me:13349",
+    "ip": "freecool.aternos.me",
     "port": 13349,
     "version": "",
     "try-creative": false
