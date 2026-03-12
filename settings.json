@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "haikal",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "haikal",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "freecool.aternos.me:13349",
+    "port": 13349,
     "version": "",
     "try-creative": false
   },
