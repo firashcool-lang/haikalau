@@ -9,7 +9,7 @@
     "ip": "freecool.aternos.me",
     "port": 13349,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": false, 
