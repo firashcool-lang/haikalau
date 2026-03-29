@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "freecobble.aternos.me",
-    "port": 51486,
-    "version": "1.21.1",
+    "ip": "blocksatu.aternos.me",
+    "port": 27192,
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
